@@ -1,0 +1,42 @@
+const quizData = [
+  {
+    qustion: "who is the president of America",
+    a: "Donald Trump",
+    b: "Kamala Harison",
+    c: "Joe Biden",
+    d: "Narendra Modi",
+    correct: "c",
+  },
+  {
+    qustion: "who is the president of India",
+    a: "Donald Trump",
+    b: "Kamala Harison",
+    c: "Joe Biden",
+    d: "Narendra Modi",
+    correct: "d",
+  },
+  {
+    qustion: "who is the vice-president of America",
+    a: "Donald Trump",
+    b: "Kamala Harison",
+    c: "Joe Biden",
+    d: "Narendra Modi",
+    correct: "b",
+  },
+  {
+    qustion: "who is the chancellor of Germany",
+    a: "Angela Merkel",
+    b: "Kamala Harison",
+    c: "Joe Biden",
+    d: "Narendra Modi",
+    correct: "a",
+  },
+  {
+    qustion: "what is the most populatd country in our world",
+    a: "India",
+    b: "China",
+    c: "US",
+    d: "Russia",
+    correct: "b",
+  },
+];
